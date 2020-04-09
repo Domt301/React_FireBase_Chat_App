@@ -1,3 +1,5 @@
+This project was created following along with the tutorial found [HERE](https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/?unapproved=1755668&moderation-hash=1aaeb6b71f8ee11cb632e0ffabaca6cf#comment-1755668)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
